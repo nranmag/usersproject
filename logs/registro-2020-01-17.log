@@ -1,0 +1,38 @@
+02:56:37 PM Iniciando el sistema
+02:56:41 PM Entró nahum como usuario ADMIN
+02:57:06 PM Se buscó la información de 60106712
+02:57:06 PM La info se buscó por el campo Numero de empleado
+03:01:22 PM Se buscó la información de: 60106712
+03:01:36 PM Datos originales: ['60106712', 'luisedu', 'PS106712', 'CULEBRO GARCIA LUIS EDUARDO ', '19/11/2019', 'TA', 'Kelly', '2', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+03:01:36 PM Datos despues de modificar el Status: ['60106712', 'luisedu', 'PS106712', 'CULEBRO GARCIA LUIS EDUARDO ', '19/11/2019', 'TA', 'Kelly', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+03:01:38 PM Se hacen las modificaciones del usuario con Numero de empleado 60106712 y se cierran los archivos satisfactoriamente.
+03:02:21 PM Se buscó la información de 60106712
+03:02:55 PM Sistema cerrado y saliendo...
+03:03:43 PM Iniciando el sistema
+03:03:57 PM Entró nahum como usuario ADMIN
+03:04:07 PM Se buscó la información de 60106585
+03:04:09 PM Se buscó información del usuario 60106585 pero no esta registrado
+03:04:20 PM Se buscó la información de 60106690
+03:04:22 PM Se buscó información del usuario 60106690 pero no esta registrado
+03:04:35 PM Se buscó la información de 60106693
+03:04:37 PM Se buscó información del usuario 60106693 pero no esta registrado
+03:04:45 PM Se buscó la información de 60106803
+03:04:46 PM Se buscó información del usuario 60106803 pero no esta registrado
+03:04:54 PM Se buscó la información de 60106869
+03:04:55 PM Se buscó información del usuario 60106869 pero no esta registrado
+03:05:03 PM Se buscó la información de 60106869
+03:05:03 PM La info se buscó por el campo Numero de empleado
+03:05:07 PM Se buscó la información de 60106803
+03:05:07 PM La info se buscó por el campo Numero de empleado
+03:06:05 PM Se buscó la información de: 60106803
+03:06:22 PM Se buscó el user 6010683 pero no está registrado en la BD
+03:06:47 PM Datos originales: ['60106803', 'joseglz', 'PS106803', 'GONZALEZ JAIMES JOSE CARLOS', '20/11/2019', 'TA', 'Kelly', '2', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+03:06:47 PM Datos despues de modificar el Status: ['60106803', 'joseglz', 'PS106803', 'GONZALEZ JAIMES JOSE CARLOS', '20/11/2019', 'TA', 'Kelly', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+03:06:48 PM Se hacen las modificaciones del usuario con Numero de empleado 60106803 y se cierran los archivos satisfactoriamente.
+03:07:52 PM Se buscó la información de 60106803
+03:07:54 PM Se buscó información del usuario 60106803 pero no esta registrado
+03:08:18 PM Se buscó la información de 60106803
+03:08:19 PM Se buscó información del usuario 60106803 pero no esta registrado
+03:08:57 PM Se buscó la información de PS106803
+03:09:00 PM Se buscó información del usuario PS106803 pero no esta registrado
+03:09:12 PM Sistema cerrado y saliendo...

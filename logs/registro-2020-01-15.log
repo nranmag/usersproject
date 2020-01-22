@@ -1,0 +1,189 @@
+09:10:57 AM Iniciando el sistema
+09:11:01 AM Entrando como nahum como usuario ADMIN
+09:11:29 AM Datos originales: ['60106434', 'mendozaa', 'PS106434', 'MENDOZA AGUAYO ALONSO', '7/11/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:11:29 AM Datos despues de modificaar el Status: ['60106434', 'mendozaa', 'PS106434', 'MENDOZA AGUAYO ALONSO', '7/11/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:11:58 AM Sistema cerrado y saliendo...
+09:16:02 AM Iniciando el sistema
+09:16:06 AM Entrando como nahum como usuario ADMIN
+09:16:28 AM Datos originales: ['60106434', 'mendozaa', 'PS106434', 'MENDOZA AGUAYO ALONSO', '7/11/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:16:28 AM Datos despues de modificaar el Status: ['60106434', 'mendozaa', 'PS106434', 'MENDOZA AGUAYO ALONSO', '7/11/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:16:29 AM Se hacen las modificaciones del usuario con Numero de empleado 60106434 y se cierran los archivos satisfactoriamente.
+09:17:51 AM Sistema cerrado y saliendo...
+09:18:35 AM Iniciando el sistema
+09:18:38 AM Entrando como nahum como usuario ADMIN
+09:19:00 AM Datos originales: ['60227647', 'lissets', 'PS227647', 'SANCHEZ GARCIA PAOLA LISSET', '17/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:19:00 AM Datos despues de modificaar el Status: ['60227647', 'lissets', 'PS227647', 'SANCHEZ GARCIA PAOLA LISSET', '17/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:19:01 AM Se hacen las modificaciones del usuario con Numero de empleado 60227647 y se cierran los archivos satisfactoriamente.
+09:20:02 AM Sistema cerrado y saliendo...
+09:21:18 AM Iniciando el sistema
+09:21:22 AM Entrando como nahum como usuario ADMIN
+09:21:42 AM Se buscó la información de oscarz
+09:21:45 AM Se buscó información del usuario oscarz pero no esta registrado
+09:22:03 AM Se buscó la información de ZEPEDA MARTINEZ OSCAR
+
+09:22:04 AM Se buscó información del usuario ZEPEDA MARTINEZ OSCAR
+ pero no esta registrado
+09:23:09 AM Datos originales: ['60538690', 'alarconc', 'PS538690', 'ALARCON GUERRERO CESAR DANIEL', '22/6/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:23:09 AM Datos despues de modificaar el Status: ['60538690', 'alarconc', 'PS538690', 'ALARCON GUERRERO CESAR DANIEL', '22/6/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:23:10 AM Se hacen las modificaciones del usuario con Numero de empleado 60538690 y se cierran los archivos satisfactoriamente.
+09:24:03 AM Datos originales: ['60006143', 'danielc', 'PS006143', 'ARREDONDO CASTANOS ANGEL DANIEL', '21/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:24:03 AM Datos despues de modificaar el Status: ['60006143', 'danielc', 'PS006143', 'ARREDONDO CASTANOS ANGEL DANIEL', '21/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:24:04 AM Se hacen las modificaciones del usuario con Numero de empleado 60006143 y se cierran los archivos satisfactoriamente.
+09:24:26 AM Datos originales: ['60006236', 'antoniob', 'PS006236', 'BARAJAS CEBALLOS ANTONIO', '21/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:24:26 AM Datos despues de modificaar el Status: ['60006236', 'antoniob', 'PS006236', 'BARAJAS CEBALLOS ANTONIO', '21/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:24:27 AM Se hacen las modificaciones del usuario con Numero de empleado 60006236 y se cierran los archivos satisfactoriamente.
+09:24:39 AM Datos originales: ['60006286', 'sergiob', 'PS006286', 'BARRERA TOPETE SERGIO', '2/11/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:24:39 AM Datos despues de modificaar el Status: ['60006286', 'sergiob', 'PS006286', 'BARRERA TOPETE SERGIO', '2/11/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:24:41 AM Se hacen las modificaciones del usuario con Numero de empleado 60006286 y se cierran los archivos satisfactoriamente.
+09:25:00 AM Datos originales: ['60106799', 'janelyc', 'PS106799', 'CANSECO GARCIA JANELY', '23/11/2019', 'TT', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:25:00 AM Datos despues de modificaar el Status: ['60106799', 'janelyc', 'PS106799', 'CANSECO GARCIA JANELY', '23/11/2019', 'TT', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:25:01 AM Se hacen las modificaciones del usuario con Numero de empleado 60106799 y se cierran los archivos satisfactoriamente.
+09:25:49 AM Datos originales: ['60228381', 'davide', 'PS228381', 'ESCOTO RUIZ DAVID', '21/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:25:49 AM Datos despues de modificaar el Status: ['60228381', 'davide', 'PS228381', 'ESCOTO RUIZ DAVID', '21/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:25:50 AM Se hacen las modificaciones del usuario con Numero de empleado 60228381 y se cierran los archivos satisfactoriamente.
+09:26:14 AM Datos originales: ['60228340', 'susanae', 'PS228340', 'ESPINDOLA AGUAYO SUSANA', '21/10/2019', 'TT', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:26:14 AM Datos despues de modificaar el Status: ['60228340', 'susanae', 'PS228340', 'ESPINDOLA AGUAYO SUSANA', '21/10/2019', 'TT', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:26:15 AM Se hacen las modificaciones del usuario con Numero de empleado 60228340 y se cierran los archivos satisfactoriamente.
+09:26:29 AM Datos originales: ['60106800', 'estrada', 'PS106800', 'ESTRADA VALLE ROBERTO', '23/11/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:26:29 AM Datos despues de modificaar el Status: ['60106800', 'estrada', 'PS106800', 'ESTRADA VALLE ROBERTO', '23/11/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+09:26:30 AM Se hacen las modificaciones del usuario con Numero de empleado 60106800 y se cierran los archivos satisfactoriamente.
+09:27:21 AM Sistema cerrado y saliendo...
+11:14:41 AM Iniciando el sistema
+11:14:45 AM Entrando como nahum como usuario ADMIN
+11:15:01 AM Datos originales: ['60227036', 'luisg', 'PS227036', 'GARCIA GUTIERREZ LUIS ANGEL', '9/8/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:15:01 AM Datos despues de modificaar el Status: ['60227036', 'luisg', 'PS227036', 'GARCIA GUTIERREZ LUIS ANGEL', '9/8/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:15:02 AM Se hacen las modificaciones del usuario con Numero de empleado 60227036 y se cierran los archivos satisfactoriamente.
+11:15:16 AM Datos originales: ['60535974', 'tapiaw', 'PS535974', 'HERNANDEZ TAPIA WILFREDO', '10/5/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:15:16 AM Datos despues de modificaar el Status: ['60535974', 'tapiaw', 'PS535974', 'HERNANDEZ TAPIA WILFREDO', '10/5/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:15:17 AM Se hacen las modificaciones del usuario con Numero de empleado 60535974 y se cierran los archivos satisfactoriamente.
+11:15:29 AM Datos originales: ['60536211', 'sergior', 'PS536211', 'HERNANDEZ RETANAÃƒâ€šÃ‚Â\xa0SERGIO', '10/7/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:15:29 AM Datos despues de modificaar el Status: ['60536211', 'sergior', 'PS536211', 'HERNANDEZ RETANAÃƒâ€šÃ‚Â\xa0SERGIO', '10/7/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:15:30 AM Se hacen las modificaciones del usuario con Numero de empleado 60536211 y se cierran los archivos satisfactoriamente.
+11:16:05 AM Datos originales: ['60006238', 'landeros', '60006238', 'LANDEROS RUIZ ZURI IVAN', '2/11/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:16:05 AM Datos despues de modificaar el Status: ['60006238', 'landeros', '60006238', 'LANDEROS RUIZ ZURI IVAN', '2/11/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:16:06 AM Se hacen las modificaciones del usuario con Numero de empleado 60006238 y se cierran los archivos satisfactoriamente.
+11:16:17 AM Datos originales: ['60228475', 'monicab', 'PS228475', 'LOPEZ OCHOA MONICA BERENICE', '21/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:16:17 AM Datos despues de modificaar el Status: ['60228475', 'monicab', 'PS228475', 'LOPEZ OCHOA MONICA BERENICE', '21/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:16:18 AM Se hacen las modificaciones del usuario con Numero de empleado 60228475 y se cierran los archivos satisfactoriamente.
+11:16:35 AM Datos originales: ['60535976', 'alexisj', 'PS535976', 'MARTINEZ BECERRA ALEXIS JAVIER', '10/5/2019', 'TT', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:16:35 AM Datos despues de modificaar el Status: ['60535976', 'alexisj', 'PS535976', 'MARTINEZ BECERRA ALEXIS JAVIER', '10/5/2019', 'TT', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:16:36 AM Se hacen las modificaciones del usuario con Numero de empleado 60535976 y se cierran los archivos satisfactoriamente.
+11:16:51 AM Datos originales: ['60228346', 'davidm', 'PS228346', 'MARTINEZ SANTOS JOSE DAVID', '21/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:16:51 AM Datos despues de modificaar el Status: ['60228346', 'davidm', 'PS228346', 'MARTINEZ SANTOS JOSE DAVID', '21/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:16:52 AM Se hacen las modificaciones del usuario con Numero de empleado 60228346 y se cierran los archivos satisfactoriamente.
+11:17:45 AM Datos originales: ['60227157', 'jorgelm', 'PS227157', 'MARTINEZ TORRES JORGE LUIS', '17/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:17:45 AM Datos despues de modificaar el Status: ['60227157', 'jorgelm', 'PS227157', 'MARTINEZ TORRES JORGE LUIS', '17/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:17:46 AM Se hacen las modificaciones del usuario con Numero de empleado 60227157 y se cierran los archivos satisfactoriamente.
+11:18:02 AM Datos originales: ['60228444', 'aldom', 'PS228444', 'MELENDRES MERCADO ALDO ROSALIO', '21/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:18:02 AM Datos despues de modificaar el Status: ['60228444', 'aldom', 'PS228444', 'MELENDRES MERCADO ALDO ROSALIO', '21/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:18:03 AM Se hacen las modificaciones del usuario con Numero de empleado 60228444 y se cierran los archivos satisfactoriamente.
+11:18:17 AM Datos originales: ['60106237', 'mendezr', '60106237', 'MENDEZ RAZO CRISTHIAN MISAEL', '2/11/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:18:17 AM Datos despues de modificaar el Status: ['60106237', 'mendezr', '60106237', 'MENDEZ RAZO CRISTHIAN MISAEL', '2/11/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:18:18 AM Se hacen las modificaciones del usuario con Numero de empleado 60106237 y se cierran los archivos satisfactoriamente.
+11:18:54 AM Datos originales: ['60228347', 'hazaelm', 'PS228347', 'MONJARAS VELAZQUEZ GEOVANNI HAZAEL', '21/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:18:54 AM Datos despues de modificaar el Status: ['60228347', 'hazaelm', 'PS228347', 'MONJARAS VELAZQUEZ GEOVANNI HAZAEL', '21/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:18:56 AM Se hacen las modificaciones del usuario con Numero de empleado 60228347 y se cierran los archivos satisfactoriamente.
+11:20:34 AM Datos originales: ['60107093', 'morenoc', '60107093', 'MORENO MARTINEZ CARLOS IVAN', '23/12/2019', 'TT', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:20:34 AM Datos despues de modificaar el Status: ['60107093', 'morenoc', '60107093', 'MORENO MARTINEZ CARLOS IVAN', '23/12/2019', 'TT', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:20:35 AM Se hacen las modificaciones del usuario con Numero de empleado 60107093 y se cierran los archivos satisfactoriamente.
+11:20:45 AM Datos originales: ['60106408', 'antonio', 'PS106408', 'NAVARRO SEDANO ANTONIO', '8/11/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:20:45 AM Datos despues de modificaar el Status: ['60106408', 'antonio', 'PS106408', 'NAVARRO SEDANO ANTONIO', '8/11/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:20:46 AM Se hacen las modificaciones del usuario con Numero de empleado 60106408 y se cierran los archivos satisfactoriamente.
+11:21:14 AM Datos originales: ['60106540', 'joser', 'PS106540', 'PEREZ CERVANTES JOSE RAFAEL', '7/11/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:21:14 AM Datos despues de modificaar el Status: ['60106540', 'joser', 'PS106540', 'PEREZ CERVANTES JOSE RAFAEL', '7/11/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:21:15 AM Se hacen las modificaciones del usuario con Numero de empleado 60106540 y se cierran los archivos satisfactoriamente.
+11:21:26 AM Datos originales: ['60006175', 'angelr', 'PS006175', 'RIZO HURTADO LUIS ANGEL', '21/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:21:26 AM Datos despues de modificaar el Status: ['60006175', 'angelr', 'PS006175', 'RIZO HURTADO LUIS ANGEL', '21/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:21:27 AM Se hacen las modificaciones del usuario con Numero de empleado 60006175 y se cierran los archivos satisfactoriamente.
+11:21:44 AM Datos originales: ['60106205', 'julior', '60106205', 'ROSETE SERRANO JULIO ARMANDO', '2/11/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:21:44 AM Datos despues de modificaar el Status: ['60106205', 'julior', '60106205', 'ROSETE SERRANO JULIO ARMANDO', '2/11/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:21:45 AM Se hacen las modificaciones del usuario con Numero de empleado 60106205 y se cierran los archivos satisfactoriamente.
+11:22:00 AM Datos originales: ['60106330', 'joserg', '60106330', 'RUVALCABA GARCIA JOSE ENRIQUE', '2/11/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:22:00 AM Datos despues de modificaar el Status: ['60106330', 'joserg', '60106330', 'RUVALCABA GARCIA JOSE ENRIQUE', '2/11/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:22:01 AM Se hacen las modificaciones del usuario con Numero de empleado 60106330 y se cierran los archivos satisfactoriamente.
+11:22:21 AM Datos originales: ['60106439', 'marcos', 'PS106439', 'SALAZAR FLORES ALAN MARCO ANTONIO', '7/11/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:22:21 AM Datos despues de modificaar el Status: ['60106439', 'marcos', 'PS106439', 'SALAZAR FLORES ALAN MARCO ANTONIO', '7/11/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:22:22 AM Se hacen las modificaciones del usuario con Numero de empleado 60106439 y se cierran los archivos satisfactoriamente.
+11:23:19 AM Datos originales: ['60228350', 'yared', 'PS228350', 'SAURE IZQUIERDO REBECA YARED', '21/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:23:19 AM Datos despues de modificaar el Status: ['60228350', 'yared', 'PS228350', 'SAURE IZQUIERDO REBECA YARED', '21/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:23:20 AM Se hacen las modificaciones del usuario con Numero de empleado 60228350 y se cierran los archivos satisfactoriamente.
+11:23:36 AM Datos originales: ['60228351', 'urielt', 'PS228351', 'TORRES DIAZ URIEL', '21/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:23:36 AM Datos despues de modificaar el Status: ['60228351', 'urielt', 'PS228351', 'TORRES DIAZ URIEL', '21/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:23:37 AM Se hacen las modificaciones del usuario con Numero de empleado 60228351 y se cierran los archivos satisfactoriamente.
+11:24:16 AM Datos originales: ['60006207', 'jafetv', 'PS006207', 'VAZQUEZ RODRIGUEZ LUIS JAFET', '21/10/2019', 'TT', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:24:16 AM Datos despues de modificaar el Status: ['60006207', 'jafetv', 'PS006207', 'VAZQUEZ RODRIGUEZ LUIS JAFET', '21/10/2019', 'TT', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:24:18 AM Se hacen las modificaciones del usuario con Numero de empleado 60006207 y se cierran los archivos satisfactoriamente.
+11:24:54 AM Datos originales: ['60228355', 'marioz', 'PS228355', 'ZARAGOZA ORTEGA MARIO MAXIMILIANO', '21/10/2019', 'TA', 'Kelly', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:24:54 AM Datos despues de modificaar el Status: ['60228355', 'marioz', 'PS228355', 'ZARAGOZA ORTEGA MARIO MAXIMILIANO', '21/10/2019', 'TA', 'Kelly', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+11:24:55 AM Se hacen las modificaciones del usuario con Numero de empleado 60228355 y se cierran los archivos satisfactoriamente.
+11:28:14 AM Sistema cerrado y saliendo...
+12:58:31 PM Iniciando el sistema
+12:58:41 PM Entrando con el user ejemplo como USUARIO
+12:59:26 PM Iniciando el sistema
+12:59:31 PM Entrando con el user ejemplo como USUARIO
+01:00:01 PM Sistema cerrado y saliendo...
+01:01:17 PM Iniciando el sistema
+01:01:26 PM El usuario ejemplo ingresó mal su password
+01:01:30 PM Entrando con el user ejemplo como USUARIO
+01:06:19 PM Entrando con el user amaral como USUARIO
+01:07:16 PM Entrando con el user ejemplo como USUARIO
+01:08:33 PM El usuario nrangel no existe
+01:08:42 PM Entrando como nahum como usuario ADMIN
+01:09:04 PM Sistema cerrado y saliendo...
+01:09:09 PM Entrando con el user amaral como USUARIO
+01:11:06 PM Sistema cerrado y saliendo...
+01:47:58 PM Iniciando el sistema
+01:48:01 PM Entrando como nahum como usuario ADMIN
+01:48:20 PM Se buscó la información de marcosdo
+01:48:20 PM La info se buscó por el campo User de Duluth
+01:48:54 PM Se buscó la información de victorh
+01:48:54 PM La info se buscó por el campo User de Duluth
+01:49:09 PM Se buscó la información de juanc
+01:49:09 PM La info se buscó por el campo User de Duluth
+01:49:24 PM Se buscó la información de sarahih
+01:49:24 PM La info se buscó por el campo User de Duluth
+01:49:36 PM Se buscó la información de danielh
+01:49:36 PM La info se buscó por el campo User de Duluth
+01:49:43 PM Se buscó la información de odemaris
+01:49:43 PM La info se buscó por el campo User de Duluth
+01:50:01 PM Se buscó la información de carlosh
+01:50:01 PM La info se buscó por el campo User de Duluth
+01:50:18 PM Se buscó la información de joseh
+01:50:18 PM La info se buscó por el campo User de Duluth
+01:50:30 PM Se buscó la información de erickr
+01:50:30 PM La info se buscó por el campo User de Duluth
+01:50:54 PM Se buscó la información de noerey
+01:50:54 PM La info se buscó por el campo User de Duluth
+01:51:05 PM Se buscó la información de alarconc
+01:51:05 PM La info se buscó por el campo User de Duluth
+01:51:51 PM Se buscó la información de alarconc
+01:51:51 PM La info se buscó por el campo User de Duluth
+01:54:05 PM Sistema cerrado y saliendo...
+01:54:31 PM Iniciando el sistema
+01:54:34 PM Entrando como nahum como usuario ADMIN
+01:54:38 PM Se buscó la información de alarconc
+01:54:42 PM Se buscó información del usuario alarconc pero no esta registrado
+01:55:17 PM Se buscó la información de jonaher
+01:55:17 PM La info se buscó por el campo User de Duluth
+01:56:05 PM Sistema cerrado y saliendo...
+02:07:27 PM Iniciando el sistema
+02:07:31 PM Entró nahum como usuario ADMIN
+02:08:38 PM Sistema cerrado y saliendo...
+02:09:22 PM Iniciando el sistema
+02:09:25 PM Entró nahum como usuario ADMIN
+02:09:32 PM Sistema cerrado y saliendo...
+02:11:02 PM Iniciando el sistema
+02:11:05 PM Entró nahum como usuario ADMIN
+02:12:10 PM Iniciando el sistema
+02:12:14 PM Entró nahum como usuario ADMIN
+02:12:31 PM Sistema cerrado y saliendo...
+02:13:22 PM Sistema cerrado y saliendo...
+02:13:25 PM Iniciando el sistema
+02:13:28 PM Entró nahum como usuario ADMIN
+02:13:50 PM Sistema cerrado y saliendo...
+02:15:42 PM Iniciando el sistema
+02:15:46 PM Entró nahum como usuario ADMIN
+02:16:23 PM Sistema cerrado y saliendo...
+02:17:44 PM Iniciando el sistema
+02:17:49 PM Entró nahum como usuario ADMIN
+02:18:40 PM Sistema cerrado y saliendo...
