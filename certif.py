@@ -91,6 +91,7 @@ class Table(tk.Frame):
 			self._cells.append(row)
 
 def examenes(n):
+	def __Cancel(event=None): pass #Se usará para anular el botón Cerrar en la Ventana de Login
 	#Creacion de la ventana
 	cert = Tk()
 	cert.geometry("900x500+450+200")
@@ -105,6 +106,39 @@ def examenes(n):
 	txt_nom.pack()
 	txt_nom.place(x=230, y=90)
 	txt_nom.config(text=n, fg="blue", bg="white", font=("calibri",14,"bold"))
+	#Ventana de Acceso o Login
+	autor = Toplevel()
+	autor.geometry('450x250+700+300')
+	autor.resizable(0,0)
+	autor.title("Autorizar")
+	#Las dos siguientes líneas se utilizan para anular el botón Cerrar de esta ventana
+	autor.attributes("-toolwindow",-1)
+	autor.protocol('WM_DELETE_WINDOW', __Cancel)
+	#Componentes de la Ventana Login
+	e1 = Label(autor, text="User / Nombre de quien autoriza: ", font=("calibri",14,"bold"))
+	e2 = Label(autor, text="Password / Contraseña: ", font=("calibri",14,"bold"))
+	usuario = StringVar()
+	passw = StringVar()
+	t1 = Entry(autor, textvariable=usuario, font=("calibri",14,"bold"), width=35)
+	t2 = Entry(autor, textvariable=passw, font=("calibri",14,"bold"), width=35, show="*")
+	b1 = Button(autor, text='Aceptar')
+	b2 = Button(autor, text='Cancelar',command=quit)
+	e1.place(x=30, y=25)
+	e2.place(x=30, y=95)
+	t1.place(x=50, y=55)
+	t2.place(x=50, y=125)
+	b1.place(x=120, y=180)
+	b2.place(x=260, y=180)
+	t1.focus_set()
+	#Las siguientes dos líneas son para usar el Enter del teclado.
+	#t2.bind('<Return>',self.onEnter)
+	#b1.config(command=self.aceptar)
+	#Las 3 líneas siguientes nos sirven para que no podamos hacer nada en la Ventana raíz hasta que nos logguemos
+	autor.transient(master=examenes)
+	autor.grab_set()
+	examenes.wait_window(autor)
+	#Cierra el ciclo del programa
+	examenes.mainloop()
 
 def activos(str):
 	if str == "1":
